@@ -1,1 +1,1 @@
-# jasmine-starter
+# jasmine
